@@ -70,7 +70,6 @@ class BListView : AppCompatActivity() {
             else -> super.onContextItemSelected(item)
         }
     }
-
     fun mostrarSnackbar(texto: String){
         val snack = Snackbar.make(
             findViewById(R.id.main),
