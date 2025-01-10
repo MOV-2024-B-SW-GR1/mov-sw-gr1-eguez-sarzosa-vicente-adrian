@@ -3,4 +3,9 @@
     <string name="saludo">Hello Friends</string>
     <color name="saludo_color">#B4700B</color>
     <string name="title_activity_blist_view">BListView</string>
+    <string-array name="string_array_opciones_dialogo">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+    </string-array>
 </resources>
